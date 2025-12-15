@@ -63,7 +63,6 @@ Notebook includes:
 ## 5. Repository Structure
 
 Grammar-Scoring-Engine/
-│
 ├── Grammar_Scoring_Engine_SHL.ipynb   # Complete implementation and analysis
 ├── submission.csv                      # Final predictions on test dataset
 └── README.md                           # Project documentation
