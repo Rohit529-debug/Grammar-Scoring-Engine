@@ -64,9 +64,10 @@ Notebook includes:
 
 Grammar-Scoring-Engine/
 │
-├── Grammar_Scoring_Engine_SHL.ipynb # Complete implementation and analysis
-├── submission.csv # Final predictions on test dataset
-└── README.md # Project documentation
+├── Grammar_Scoring_Engine_SHL.ipynb   # Complete implementation and analysis
+├── submission.csv                      # Final predictions on test dataset
+└── README.md                           # Project documentation
+
 
 ## 6. Files Description
 
